@@ -38,5 +38,5 @@ function mPerdido(){
     alert("Insira o total de minutos perdidos, ou seja, a quantidade de atrasos ou saídas antecipadas dos seus funcionários na sua empresa no mês.")
 }
 function proServ(){
-    alert("Quantidade(s) de produtos ou serviços realizados em um dia.")
+    alert("Quantidade(s) de produtos ou serviços realizados no mês.")
 }
