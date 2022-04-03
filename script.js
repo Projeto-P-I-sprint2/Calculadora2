@@ -20,7 +20,7 @@ function calcular() {
 
     Absenteismo.innerHTML = `${Abstencao.toFixed(2)}% de absenteísmo no mês`
 
-    Produtividade.innerHTML = `${prod.toFixed(1)} de produtos/serviços realizados em um dia.`
+    Produtividade.innerHTML = `${prod.toFixed(1)} de produtos/serviços realizados por hora.`
 }
 function funcionario(){
     alert("Insira a quantidade de funcionários da sua empresa ao todo.")
@@ -38,5 +38,5 @@ function mPerdido(){
     alert("Insira o total de minutos perdidos, ou seja, a quantidade de atrasos ou saídas antecipadas dos seus funcionários na sua empresa no mês.")
 }
 function proServ(){
-    alert("Quantidade(s) de produtos ou serviços realizados no mês.")
+    alert("Quantidade(s) de produtos ou serviços realizados em um dia.")
 }
